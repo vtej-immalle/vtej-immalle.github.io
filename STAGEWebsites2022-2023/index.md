@@ -21,9 +21,9 @@ title: GIP Websites 2022-2023
 
 | klasnummer | website | repo |
 |---|---|---|
-| 1 | [Kobe De Bruyn]() | [repo]() | 
-| 2 | [Emilio Schmitz]() | [repo]() | 
-| 3 | [Lara Verelst]() | [repo]() |
+| 1 | [Kobe De Bruyn](https://kobedb-immalle.github.io/KobeDB_Dagverslagen/) | [repo]() | 
+| 2 | [Emilio Schmitz](https://emilios-immalle.github.io/EmilioS_Dagverslagen/) | [repo]() | 
+| 3 | [Lara Verelst](https://larav-immalle.github.io/LaraV_Dagverslagen/) | [repo]() |
 
 # 6OITb
 
@@ -31,4 +31,4 @@ title: GIP Websites 2022-2023
 |---|---|---|
 | 1 | [Maarten Schryvers]() | [repo]() | 
 | 2 | [Noah Smekens]() | [repo]() | 
-| 3 | [Anyelen Velasquez]() | [repo]() |
+| 3 | [Anyelen Velasquez](https://anyelenv-immalle.github.io/AnyelenV_Dagverslagen/) | [repo]() |

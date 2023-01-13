@@ -12,7 +12,7 @@ title: GIP Websites 2022-2023
 | 3 | [Thomas Deroy](https://ThomasD-immalle.github.io/TD-Dagverslagen/) | [repo]() |
 | 4 | [Dieter Druyts](https://dieterd-imalle.github.io/DieterDdagverslagen/) | [repo]() |
 | 5 | [Sam Vandebroek](https://samv-immalle.github.io/SamV_Dagverslagen/) | [repo]() |
-| 6 | [Axel Van den Bosch](https://AxelVdB-immalle.github.io/AXELVDB_Dagverslagen/) | [repo]() |
+| 6 | [Axel Van den Bosch](https://axelvdb-immalle.github.io/AXELVDB_Dagverslagen/) | [repo]() |
 | 7 | [Jens Van den Brande](https://jensvdb-immalle.github.io/JensVdB_Dagverslagen/) | [repo]() |
 | 8 | [Lars Van de Putte](https://larsvdp-immalle.github.io/LarsVdP_Dagverslagen/) | [repo]() |
 | 9 | [Kobe Van Eyck](https://kobeve-immalle.github.io/KobeVE_Dagverslagen/) | [repo]() |

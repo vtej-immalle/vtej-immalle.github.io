@@ -1,6 +1,6 @@
 ---
 layout: default
-title: GIP Websites 2022-2023
+title: GIP Website 2022-2023
 ---
 
 # 6ITN

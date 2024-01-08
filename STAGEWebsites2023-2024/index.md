@@ -21,10 +21,10 @@ title: STAGE Websites 2023-2024
 
 | klasnummer | website | repo |
 |---|---|---|
-| 1 | [Boeckx Klaas]() | [repo]() | 
-| 2 | [Cockx Floris]() | [repo]() | 
-| 3 | [Denis Luna]() | [repo]() |
-| 4 | [Mertens Robin]() | [repo]() |
-| 5 | [Van Den Bosch Jenne]() | [repo]() |
-| 6 | [Verholle Zhymke]() | [repo]() |
+| 1 | [Boeckx Klaas](https://klaasb-immalle.github.io/DagverslagenKlaasBoeckx/) | [repo]() | 
+| 2 | [Cockx Floris](https://florisc-immalle.github.io/DAGVERSLAGENFlorisCockx/) | [repo]() | 
+| 3 | [Denis Luna](https://lunad-immalle.github.io/DAGVERSLAGENLunaDenis/) | [repo]() |
+| 4 | [Mertens Robin](https://robinm-immalle.github.io/DAGVERSLAGENRobinMertens/) | [repo]() |
+| 5 | [Van Den Bosch Jenne](https://jennevdb-immalle.github.io/DAGVERSLAGENJenneVanDenBosch/) | [repo]() |
+| 6 | [Verholle Zhymke](https://zhymkev-immalle.github.io/DAGVERSLAGENZhymkeVerholle/) | [repo]() |
 

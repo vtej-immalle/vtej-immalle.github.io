@@ -10,14 +10,14 @@ title: Websites 2024-2025
 |---|---|---|
 | 1 | [Seppe De Deckers]() | [repo]() | 
 | 2 | [Reda Kadi]() | [repo]() | 
-| 3 | [Maxime Smet]() | [repo]() |
+| 3 | [Maxime Smet](https://maximes-immalle.github.io/EigenWebSiteStage/) | [repo]() |
 
 # 6BIW
 ## Website voor een bedrijf naar keuze
 
 | klasnummer | website | repo |
 |---|---|---|
-| 1 | [Sten Braet]() | [repo]() | 
-| 2 | [Sam De Meulder]() | [repo]() | 
+| 1 | [Sten Braet](https://stenb-immalle.github.io/WebsiteBedrijf/) | [repo]() | 
+| 2 | [Sam De Meulder](https://samdm-immalle.github.io/WebsiteQube/) | [repo]() | 
 | 3 | [Arjen Dossche]() | [repo]() |
-| 4 | [Lam Tim Nguyen Ngoc]() | [repo]() |
+| 4 | [Lam Tim Nguyen Ngoc](https://lamtimnn-immalle.github.io/siteGIT/) | [repo]() |

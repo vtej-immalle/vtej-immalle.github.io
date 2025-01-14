@@ -10,7 +10,7 @@ title: Websites 2024-2025
 |---|---|---|
 | 1 | [Seppe De Deckers](){:target="_blank"} | [repo](){:target="_blank"} | 
 | 2 | [Reda Kadi](){:target="_blank"} | [repo](){:target="_blank"} | 
-| 3 | [Maxime Smet](https://maximes-immalle.github.io/EigenWebSiteStage/){target="_blank"} | [repo](){:target="_blank"} |
+| 3 | [Maxime Smet](https://maximes-immalle.github.io/EigenWebSiteStage/{target="_blank"}) | [repo]()|
 
 # 6BIW
 ## Website voor een bedrijf naar keuze

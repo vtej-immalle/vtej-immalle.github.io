@@ -8,9 +8,9 @@ title: Websites 2024-2025
 
 | klasnummer | website | repo |
 |---|---|---|
-| 1 | [Seppe De Deckers]() | [repo]() | 
-| 2 | [Reda Kadi]() | [repo]() | 
-| 3 | [Maxime Smet](https://maximes-immalle.github.io/EigenWebSiteStage/) | [repo]() |
+| 1 | [Seppe De Deckers](){:target="_blank"} | [repo](){:target="_blank"} | 
+| 2 | [Reda Kadi](){:target="_blank"} | [repo](){:target="_blank"} | 
+| 3 | [Maxime Smet](https://maximes-immalle.github.io/EigenWebSiteStage/){:target="_blank"} | [repo](){:target="_blank"} |
 
 # 6BIW
 ## Website voor een bedrijf naar keuze
